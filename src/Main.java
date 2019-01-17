@@ -12,4 +12,8 @@ public class Main {
     public static int subtraction(int i, int j){
         return i - j;
     }
+
+    public static void writer(int i){
+        System.out.println(i);
+    }
 }
