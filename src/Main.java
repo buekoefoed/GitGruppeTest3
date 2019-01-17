@@ -8,4 +8,8 @@ public class Main {
     public static int addition(int i, int j){
         return i + j;
     }
+
+    public static int subtraction(int i, int j){
+        return i - j;
+    }
 }
