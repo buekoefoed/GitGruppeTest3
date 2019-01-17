@@ -13,6 +13,10 @@ public class Main {
         return i - j;
     }
 
+    public static int multiplication(int i, int j){
+        return i * j;
+    }
+
     public static void writer(int i){
         System.out.println(i);
     }
